@@ -35,11 +35,11 @@ const Education = () => {
               >
                 {/* Status badge */}
                 <div className={`absolute top-4 right-4 px-3 py-1 rounded-full text-xs font-medium ${
-                  edu.status === 'En cours'
+                  edu.status === 'Terminée'
                     ? 'bg-green-500/10 text-green-400 border border-green-500/20'
                     : 'bg-accent/10 text-accent-light border border-accent/20'
                 }`}>
-                  {edu.status === 'En cours' && <span className="w-1.5 h-1.5 rounded-full bg-green-400 inline-block mr-1 animate-pulse" />}
+                  {edu.status === 'Terminée' && <span className="w-1.5 h-1.5 rounded-full bg-green-400 inline-block mr-1 animate-pulse" />}
                   {edu.status}
                 </div>
 
