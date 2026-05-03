@@ -68,8 +68,10 @@ const Hero = () => {
         </div>
 
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6">
+          <span className="text-white">Bonjour, je suis</span>
+          <br />
           <span className="gradient-text font-display">{personalInfo.name}</span>
-        </h1> 
+        </h1>
 
         <div className="text-xl md:text-2xl text-gray-400 mb-8 h-12">
           <TypeAnimation
