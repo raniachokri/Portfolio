@@ -82,7 +82,7 @@ const Contact = () => {
                   <div className="flex items-center justify-between">
                     <span className="text-gray-400">CDI</span>
                     <span className="px-3 py-1 rounded-full bg-accent/10 text-accent-light text-sm border border-accent/20">
-                      À partir de 2026deactivate
+                       
                     </span>
                   </div>
                 </div>
