@@ -137,7 +137,7 @@ export const education = [
     school: 'Tek-Up University',
     location: 'Tunis',
     period: '2023 – 2025',
-    status: 'En cours'
+    status: 'Terminé'
   },
   {
     id: 2,
