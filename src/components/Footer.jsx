@@ -36,7 +36,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-white/5 text-center">
           <p className="text-gray-500 text-sm flex items-center justify-center gap-1">
-            © 2025 {personalInfo.name}. Conçu avec <Heart className="w-4 h-4 text-red-500 fill-red-500" /> et beaucoup de café.
+            © 2026 {personalInfo.name}. Conçu avec <Heart className="w-4 h-4 text-red-500 fill-red-500" /> et beaucoup de café.
           </p>
         </div>
       </div>

@@ -72,12 +72,7 @@ const Contact = () => {
               <div className="glass rounded-xl p-6">
                 <h3 className="text-lg font-semibold text-white mb-4">Disponibilité</h3>
                 <div className="space-y-3">
-                  <div className="flex items-center justify-between">
-                    <span className="text-gray-400">Stage / Alternance</span>
-                    <span className="px-3 py-1 rounded-full bg-green-500/10 text-green-400 text-sm border border-green-500/20">
-                      Disponible
-                    </span>
-                  </div>
+                   
                   <div className="flex items-center justify-between">
                     <span className="text-gray-400">Freelance</span>
                     <span className="px-3 py-1 rounded-full bg-green-500/10 text-green-400 text-sm border border-green-500/20">
@@ -87,7 +82,7 @@ const Contact = () => {
                   <div className="flex items-center justify-between">
                     <span className="text-gray-400">CDI</span>
                     <span className="px-3 py-1 rounded-full bg-accent/10 text-accent-light text-sm border border-accent/20">
-                      À partir de 2025
+                      À partir de 2026deactivate
                     </span>
                   </div>
                 </div>
